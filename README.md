@@ -1,1 +1,2 @@
-# Com_504_2021A1L013
+# GUI Based Billing Software Management System
+Libraries Used: **Tkinter, GUI**
